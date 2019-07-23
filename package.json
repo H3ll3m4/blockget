@@ -1,0 +1,24 @@
+{
+  "name": "tests-update",
+  "version": "1.0.0",
+  "description": "test sdk functions after update 2.6 js sdk",
+  "main": "index.js",
+  "dependencies": {
+    "node-gyp": "^5.0.2",
+    "rxjs": "^6.5.2",
+    "secp256k1": "^3.7.1"
+  },
+  "devDependencies": {
+    "@types/ws": "^6.0.1",
+    "dcorejs-sdk": "^2.6.0",
+    "ipfs-http-client": "^33.1.0",
+    "isomorphic-ws": "^4.0.1",
+    "rxjs-spy": "^7.5.1",
+    "ws": "^7.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hellema",
+  "license": "ISC"
+}
