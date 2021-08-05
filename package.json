@@ -4,7 +4,7 @@
   "description": "test sdk functions after update 2.6 js sdk",
   "main": "index.js",
   "dependencies": {
-    "node-gyp": "^5.0.2",
+    "node-gyp": "^7.0.0",
     "rxjs": "^6.5.2",
     "secp256k1": "^3.7.1"
   },
